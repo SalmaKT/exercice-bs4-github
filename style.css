@@ -1,0 +1,53 @@
+header {
+    height: 100vh;
+    /*min-height: 400px;*/
+    background-size: cover;
+    background-image: url('./images/bg-masthead.jpg') ;
+}
+
+
+#about {
+    background-color: #161616 ;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    letter-spacing: 0.0625em;
+}
+
+.coco {
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.8rem;
+}
+
+.cocolor {
+    background-color: #64a19d ;
+    padding: 1.25rem 2rem;
+    font-size: 80%;
+    letter-spacing: 0.15rem;
+}
+
+#sct {
+    padding-top: 10rem ;
+    background: linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%);
+}
+
+.lol {
+    color: #64a19d ;
+}
+
+.icikoi {
+    padding: 0 0 0 2rem;
+    border-left: .5rem solid #64a19d;
+}
+
+.fodunoir {
+    background-color: #212529 ;
+}
+
+.lolo {
+    background-color: #64a19d ;
+    border-width: .25rem;
+    width: 30%;
+}
