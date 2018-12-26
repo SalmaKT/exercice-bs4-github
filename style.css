@@ -51,3 +51,7 @@ body {
     border-width: .25rem;
     width: 30%;
 }
+
+.abonmt {
+    background-image: url('./images/bg-masthead.jpg')
+}
